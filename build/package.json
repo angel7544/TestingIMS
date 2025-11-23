@@ -55,7 +55,7 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://192.168.31.137:5000" ,
+  "proxy": "https://ims-tsl-1.onrender.com" ,
   "devDependencies": {
     "postcss": "^8.5.6",
     "postcss-cli": "^11.0.1"
